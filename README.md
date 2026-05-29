@@ -59,17 +59,7 @@ The dashboard helps in understanding patient health trends, monitoring important
 
 ---
 
-## 📷 Dashboard Preview
 
-(Add screenshots of your Power BI dashboard here)
-
-Example:
-
-```md
-![Dashboard Screenshot](screenshots/dashboard.png)
-```
-
----
 
 ## 🚀 How to Run the Project
 
